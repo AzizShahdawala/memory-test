@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memory-test/static/css/main.b91238c1.css",
+    "main.js": "/memory-test/static/js/main.cde15da6.js",
+    "static/js/453.0cb77a21.chunk.js": "/memory-test/static/js/453.0cb77a21.chunk.js",
+    "index.html": "/memory-test/index.html",
+    "main.b91238c1.css.map": "/memory-test/static/css/main.b91238c1.css.map",
+    "main.cde15da6.js.map": "/memory-test/static/js/main.cde15da6.js.map",
+    "453.0cb77a21.chunk.js.map": "/memory-test/static/js/453.0cb77a21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b91238c1.css",
+    "static/js/main.cde15da6.js"
+  ]
+}
